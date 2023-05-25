@@ -1,0 +1,7 @@
+dist/
+webuiapi.egg-info/
+build/
+*.pyc
+*.png
+*.jpeg
+.idea
